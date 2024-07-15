@@ -3,9 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TAT Multiplier: Enhancing KPI Effectiveness</title>
+
 </head>
 <body>
+
+<h1>TAT Multiplier: Enhancing KPI Effectiveness</h1>
 
 <h2>Project Overview</h2>
 <p>This project is inspired by the narrative of a project manager's journey to improve Key Performance Indicators (KPIs) in a corporate setting. The main focus is on the development and implementation of the Turnaround Time (TAT) Multiplier to address discrepancies in the On-Time Delivery Percentage (OTD%) metric.</p>
