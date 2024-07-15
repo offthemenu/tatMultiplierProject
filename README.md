@@ -1,7 +1,9 @@
 # slaCoefficientProject
 Outline of How I Reconfigured One of My Previous Employer's Key Performance Indicators (KPIs)
+
 TAT Multiplier: Enhancing KPI Effectiveness
-Project Overview
+
+<h2>Project Overview</h2>
 This project is inspired by the narrative of a project manager's journey to improve Key Performance Indicators (KPIs) in a corporate setting. The main focus is on the development and implementation of the Turnaround Time (TAT) Multiplier to address discrepancies in the On-Time Delivery Percentage (OTD%) metric.
 
 Table of Contents
