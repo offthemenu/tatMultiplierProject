@@ -28,10 +28,6 @@
 <p>The project was inspired by the need to reassess the effectiveness of high-performing KPIs, particularly the On-Time Delivery Percentage (OTD%). The TAT Multiplier was developed to provide a more dynamic and insightful measure of vendor performance, addressing the limitations of static KPIs.</p>
 <p>The full narrative detailing the inspiration and development process can be found on <a href="https://medium.com/@personal.ianchang/why-your-kpis-might-need-a-facelift-especially-the-high-performing-ones-part-1-prologue-28f0dbdea24d">Medium</a>.</p>
 
-<h2 id="installation">Installation</h2>
-<p>To run this project, you'll need Python and the necessary packages. Install the required packages using:</p>
-<pre><code>pip install -r requirements.txt</code></pre>
-
 <h2 id="usage">Usage</h2>
 <p>To use the data processing script, run the Jupyter notebook <code>dataProcessing.ipynb</code>. This notebook includes all steps to process vendor data and calculate performance metrics.</p>
 
